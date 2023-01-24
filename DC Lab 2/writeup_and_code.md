@@ -1,13 +1,11 @@
-# lab 2
+# Lab 2
+## Remote Method Invocation
 
 
-https://docs.oracle.com/javase/8/docs/technotes/guides/rmi/hello/hello-world.html#startRegistry
+Refer java RMI doccumentation.
+
+The RMI test code is from [here.](https://docs.oracle.com/javase/8/docs/technotes/guides/rmi/hello/hello-world.html#startRegistry)
 
 
+[writeup and code](https://www.javatpoint.com/RMI)
 
-writeup and code:
-
-https://www.javatpoint.com/RMI
-
-
-and gfg
