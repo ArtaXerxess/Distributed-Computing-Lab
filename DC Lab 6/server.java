@@ -4,7 +4,7 @@
  * 
  * incomplete! contributions are welcomed!!
  * 
- * this server actually shouldn't exit, the processes should communicate with themselves without any form of communication interface in between.
+ * this server actually shouldn't exist, the processes should communicate with themselves without any form of communication interface in between.
  * 
  * the purpose of this code is to only broadcast messages from one process's socket to other processes in order to reduce complexity of the implementation of this algo
  * 
