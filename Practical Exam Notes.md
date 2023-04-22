@@ -1,3 +1,32 @@
+1. Clock Synchronization:
+
+    a. Cristian Algorithm
+
+    b. Berkeley Algorithm
+
+2. Mutual exclusion Algorithms:
+
+    a. Lamport’s Distributed Mutual Algorithm
+
+    b. Ricart-Agrawala Algorithm
+
+    c. Maekawa’s Algorithm
+
+    d. Suzuki-Kasami’s Broadcast Algorithms, 
+
+    e. Raymond’s Tree based Algorithm
+
+3. Election Algorithms:
+
+    a. Bully Algorithm 
+
+    b. Ring Algorithm
+
+4. Load Balancing: Banker’s Algorithm
+
+5. Deadlock Detection: Chandy-Misra-Haas’s Algorithm
+
+
 | Name | Description | Pros | Cons | Steps |
 |------|-------------|------|------|-------|
 | Clock Synchronization - Cristian Algorithm | A time synchronization algorithm where a client requests the time from a time server and adjusts its clock accordingly. | - Simple and easy to implement<br>- Provides a rough estimate of time synchronization<br>- Suitable for small-scale systems | - Assumes symmetric network delay<br>- Not suitable for large-scale systems<br>- Vulnerable to network delay variations | 1. Client sends a request to the time server.<br>2. Time server responds with its local time.<br>3. Client calculates the time difference and adjusts its clock. |
