@@ -1,5 +1,3 @@
-Here's a table summarizing the algorithms you mentioned:
-
 | Name | Description | Pros | Cons | Steps |
 |------|-------------|------|------|-------|
 | Clock Synchronization - Cristian Algorithm | A time synchronization algorithm where a client requests the time from a time server and adjusts its clock accordingly. | - Simple and easy to implement<br>- Provides a rough estimate of time synchronization<br>- Suitable for small-scale systems | - Assumes symmetric network delay<br>- Not suitable for large-scale systems<br>- Vulnerable to network delay variations | 1. Client sends a request to the time server.<br>2. Time server responds with its local time.<br>3. Client calculates the time difference and adjusts its clock. |
