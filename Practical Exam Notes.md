@@ -1,3 +1,5 @@
+# Summary
+
 1. Clock Synchronization:
 
     a. Cristian Algorithm
