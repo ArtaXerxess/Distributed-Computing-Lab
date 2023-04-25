@@ -53,3 +53,9 @@ Chandy-Misra-Haas's Algorithm | A distributed algorithm for detecting terminatio
 
 ![image](https://user-images.githubusercontent.com/74452252/234154842-4a8a866c-b195-4a99-b210-47c2cc26ceab.png)
 
+
+
+
+1. Throughput: In the context of mutual exclusion algorithms in distributed systems, throughput refers to the number of requests or operations that a system can successfully process or complete within a given time period. It is a measure of the system's efficiency in handling concurrent requests or operations without conflicts or contention. Higher throughput indicates that the system is capable of processing a larger number of requests in parallel, resulting in better performance and increased utilization of system resources.
+
+2. Synchronization delay: Synchronization delay in the context of mutual exclusion algorithms in distributed systems refers to the time delay incurred when processes or nodes in a distributed system coordinate and synchronize with each other to ensure that only one process or node accesses a shared resource at a time. Synchronization delay occurs due to various factors such as communication delays, processing delays, and contention for access to shared resources. It can impact the overall performance and efficiency of the distributed system, as processes or nodes may need to wait for synchronization before accessing shared resources, leading to potential delays and reduced throughput. Efficiently managing synchronization delay is an important consideration in designing mutual exclusion algorithms for distributed systems to minimize contention and maximize system performance.
